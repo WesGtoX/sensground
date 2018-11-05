@@ -1,0 +1,4 @@
+# ignore folders and directories
+models/
+
+# ignore specifc files
