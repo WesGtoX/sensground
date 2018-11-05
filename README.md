@@ -19,7 +19,7 @@ O dispositivo se baseia em construir uma estrutura que permita a irrigação a m
 
 O controle de quando acionar os irrigadores e o tempo que ficariam ativos seria feito de acordo com a vontade do usuário, podendo também como de costume utilizar de um timer para fazer irrigações programadas, fazendo assim o sensor ser utilizado apenas para monitoramento e controle, para que o produto a estar sendo controlado em questão não fique abaixo do esperado/necessário.  
 
-Authors:  
+## Authors ##
 > [Wesley Mendes](https://github.com/WesGtoX)  
 > [Gabriel Pestrini](https://github.com/Pestrini)  
 > [Matheus Bacha]()  
