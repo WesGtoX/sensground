@@ -1,4 +1,5 @@
 # ignore folders and directories
 models/
+videos/
 
 # ignore specifc files
