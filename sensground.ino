@@ -1,5 +1,5 @@
-// ===== SOIlevel MOISTURE RANGE =====
-// ===================================
+// ===== SOIL LEVEL MOISTURE RANGE =====
+// =====================================
 #define L1 169
 #define L2 340
 #define L3 511
@@ -11,8 +11,8 @@
 //relay signalevel for valve
 int valve = 8;
 
-// ===== INITIAlevel SETTINGS =====
-// ================================
+// ===== INITIAL LEVEL SETTINGS =====
+// ==================================
 void setup() {
   Serial.begin(9600);
   
